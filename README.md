@@ -1,6 +1,6 @@
 # Tot-Email-Spammer : Python 2
 
-### Download installation ####
+### Download and Installation ####
 
 #installation Distro GNU/Linux :
 
