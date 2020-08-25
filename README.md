@@ -1,4 +1,4 @@
-# Tot-Email-Spammer : Python 2 and Python 3
+# Tot-Email-Spammer : Python 2
 
 ### Download installation ####
 
